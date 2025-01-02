@@ -54,35 +54,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deiv1drar&theme=radical" alt="deiv1drar" />
 </div>
 
-<style>
-  /* Custom CSS for better visual appeal */
-  body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #0d1117;
-    color: #c9d1d9;
-    line-height: 1.6;
-  }
-  
-  h3 {
-    color: #58a6ff;
-    margin-top: 30px;
-    margin-bottom: 15px;
-  }
-  
-  a {
-    color: #58a6ff;
-    text-decoration: none;
-  }
-  
-  a:hover {
-    text-decoration: underline;
-  }
-  
-  img {
-    margin: 5px;
-  }
-  
-  div {
-    margin-bottom: 30px;
-  }
-</style>
