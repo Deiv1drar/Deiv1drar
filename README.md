@@ -1,31 +1,88 @@
-<h1 align="center">Hi 👋, I'm Deivid</h1>
-<h3 align="center">I am a web developer</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Deivid;Web+Developer" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deiv1drar&label=Profile%20views&color=0e75b6&style=flat" alt="deiv1drar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deiv1drar" alt="deiv1drar" /></a> </p>
-
-- 🔭 I’m currently working on **VOCATIONAL FAIR**
-
-- 🌱 I’m currently learning **learning about web programming**
-
-- 👯 I’m looking to collaborate on **FORM**
-
-- 📝 I regularly write articles on [INSTAGRAM](INSTAGRAM)
-
-- ⚡ Fun fact **I learn very quickly and I like doing technical support**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/deividandress" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deividandress" height="30" width="40" /></a>
-<a href="https://discord.gg/.antidevice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".antidevice" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deiv1drar&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="deiv1drar" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deiv1drar&theme=darkhub&no-frame=true&row=1&column=7" alt="deiv1drar" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deiv1drar&show_icons=true&locale=en&layout=compact" alt="deiv1drar" /></p>
+<div align="center">
+  <h3>🚀 About Me</h3>
+  <p>
+    🔭 I'm currently working on <strong>VOCATIONAL FAIR</strong><br>
+    🌱 I'm currently learning about <strong>web programming</strong><br>
+    👯 I'm looking to collaborate on <strong>FORM</strong><br>
+    📝 I regularly write articles on <strong>INSTAGRAM</strong><br>
+    ⚡ Fun fact: <strong>I learn very quickly and I like doing technical support</strong>
+  </p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deiv1drar&show_icons=true&locale=en" alt="deiv1drar" /></p>
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="https://instagram.com/deividandress" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discord.gg/.antidevice" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deiv1drar&" alt="deiv1drar" /></p>
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deiv1drar&show_icons=true&locale=en&layout=compact&theme=radical" alt="deiv1drar" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deiv1drar&show_icons=true&locale=en&theme=radical" alt="deiv1drar" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deiv1drar&theme=radical" alt="deiv1drar" />
+</div>
+
+<style>
+  /* Custom CSS for better visual appeal */
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #0d1117;
+    color: #c9d1d9;
+    line-height: 1.6;
+  }
+  
+  h3 {
+    color: #58a6ff;
+    margin-top: 30px;
+    margin-bottom: 15px;
+  }
+  
+  a {
+    color: #58a6ff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  img {
+    margin: 5px;
+  }
+  
+  div {
+    margin-bottom: 30px;
+  }
+</style>
