@@ -1,56 +1,83 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Deivid;Web+Developer" alt="Typing SVG" />
+
+# Deivid Hidalgo González
+
+**Web Developer | IT Support Specialist**
+
+San José, Costa Rica
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/deiv1drar)
+[![Email](https://img.shields.io/badge/Email-Contact-2B579A?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:your.email@email.com)
+
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deiv1drar&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="deiv1drar" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deiv1drar&theme=darkhub&no-frame=true&row=1&column=7" alt="deiv1drar" />
-</p>
+## About
+
+Web Developer with a strong technical foundation and a problem-solving mindset, experienced in building responsive web applications using modern front-end technologies.
+
+Certified in **Cisco IT Essentials**, with practical knowledge in hardware, operating systems, and technical support. Capable of developing solutions while understanding, diagnosing, and improving the environments where they run.
+
+Focused on delivering reliable, functional, and user-centered systems while contributing to quality assurance, system stability, and continuous improvement processes.
+
+---
+
+## Technical Skills
+
+| Development | Infrastructure | Tools |
+|:-----------:|:--------------:|:-----:|
+| HTML5 | Networking Fundamentals | Git & GitHub |
+| CSS3 | Windows & Linux | Microsoft Office |
+| JavaScript | Hardware Troubleshooting | REST APIs |
+| Responsive Design | Software Support | Manual Testing (QA) |
+
+---
+
+## Certifications
+
+<table>
+<tr>
+<td align="center"><strong>Cisco Networking Academy</strong></td>
+</tr>
+<tr>
+<td>
+
+| Certification | Status |
+|:--------------|:------:|
+| IT Essentials | Completed |
+| Introduction to Cybersecurity | Issued Sep 2024 |
+| Introduction to IoT | Issued Nov 2024 |
+
+</td>
+</tr>
+</table>
+
+---
+
+## Current Focus
+
+- Building responsive and accessible web applications
+- Expanding knowledge in full-stack development
+- Contributing to collaborative development projects
+
+---
+
+## GitHub Analytics
 
 <div align="center">
-  <h3>🚀 About Me</h3>
-  <p>
-    🔭 I'm currently working on <strong>VOCATIONAL FAIR</strong><br>
-    🌱 I'm currently learning about <strong>web programming</strong><br>
-    👯 I'm looking to collaborate on <strong>FORM</strong><br>
-    📝 I regularly write articles on <strong>INSTAGRAM</strong><br>
-    ⚡ Fun fact: <strong>I learn very quickly and I like doing technical support</strong>
-  </p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deiv1drar&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0A66C2&icon_color=0A66C2&text_color=333333)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=deiv1drar&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0A66C2&text_color=333333)
+
 </div>
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-  <a href="https://instagram.com/deividandress" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://discord.gg/.antidevice" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
-
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine" />
-</p>
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deiv1drar&show_icons=true&locale=en&layout=compact&theme=radical" alt="deiv1drar" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deiv1drar&show_icons=true&locale=en&theme=radical" alt="deiv1drar" />
-</div>
+*Open to opportunities and collaboration*
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deiv1drar&theme=radical" alt="deiv1drar" />
 </div>
-
