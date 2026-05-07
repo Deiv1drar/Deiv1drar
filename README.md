@@ -15,7 +15,7 @@ San José, Costa Rica
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deividhg)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deiv1drar)
 [![Email](https://img.shields.io/badge/Email-Contact-2B579A?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:deividhidalgo44@gmail.com)
-[![Phone](https://img.shields.io/badge/+506_61040058-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50661040058)
+
 
 </div>
 
